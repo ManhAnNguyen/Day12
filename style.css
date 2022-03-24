@@ -1,0 +1,21 @@
+.item {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+}
+
+.circle-className {
+  border-radius: 50%;
+}
+.disappear-className {
+  display: none;
+}
+
+.changeColor-className {
+  background-color: red;
+}
+
+.bigger-className {
+  width: 400px;
+  height: 400px;
+}
